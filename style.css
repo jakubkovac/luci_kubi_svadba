@@ -60,6 +60,14 @@ h3{
     */
 }
 
+#mapid{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px; 
+    width: 60%;
+}
+
 @media only screen and (max-width: 750px){
     body{
         font-size: 16px;
@@ -73,4 +81,10 @@ h3{
         font-size: 20px;
     }
 
+    #mapid{
+        width: 85%;
+        height: 300px;
+    }
+
 }
+
