@@ -65,8 +65,16 @@ h3{
     margin-left: auto;
     margin-right: auto;
     height: 400px; 
-    width: 60%;
+    width: 45%;
 }
+
+.trees{
+    max-width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 
 @media only screen and (max-width: 750px){
     body{
