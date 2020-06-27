@@ -15,6 +15,9 @@
 </head>
 <body>
     <nav id="navbar">
+        <div class="nav-logo" id="navlogo">
+            <img src="img/logo.svg" alt="" style="height: 30px;"> 
+         </div>
         <ul class="nav-links">
             <li><a href="#nasden">Náš deň</a></li>
             <li><a href="#doprava">Doprava</a></li>
@@ -45,9 +48,13 @@ function scrollFunction() {
   if (document.documentElement.scrollTop > 200) {
     document.getElementById("navbar").classList.add("nav-colored");
     document.getElementById("navbar").classList.remove("nav-transparent");
+    document.getElementById("navlogo").classList.add("nav-show");
+    document.getElementById("navlogo").classList.remove("nav-hide");
   } else {
     document.getElementById("navbar").classList.add("nav-transparent");
     document.getElementById("navbar").classList.remove("nav-colored");
+    document.getElementById("navlogo").classList.add("nav-hide");  
+    document.getElementById("navlogo").classList.remove("nav-show");
     
   }
 }

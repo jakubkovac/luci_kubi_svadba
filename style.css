@@ -2,18 +2,20 @@ nav{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin-right: 15%;
+    margin-right: 5%;
     width: 100%;
+    height: 40px;
     position: fixed;
     z-index:5;
     -webkit-transition: all 0.4s ease;
     transition: all 0.4s ease;
 }
 
-
-
-.nav-colored { background-color:#b3b0b0; }
+.nav-colored { background-color:#eceff4;}
 .nav-transparent { background-color:transparent;}
+        
+.nav-show{ display: flex;}
+.nav-hide{display: none;}
 .nav-links{
     display: flex;
     justify-content: space-around;
@@ -25,9 +27,8 @@ nav{
 }
 
 .nav-links a{
-  color: #000;
-  text-decoration: none;
-
+    text-decoration: none;
+    color: #000;
 }
 
 
@@ -40,7 +41,7 @@ body,html {
     line-height: 1.8em;
     text-align: center;
     color: #000;
-    background-color: #eaeaea;    
+    background-color: #e5e9f0;    
 }
 
 p{
@@ -87,7 +88,7 @@ h3{
     top: 80%;
     width: 100%;
     text-align: center;
-    color: #fff;
+    color: #e5e9f0;
     font-size: 40px;
     font-weight: 600;
     letter-spacing: 8px;
@@ -148,5 +149,5 @@ h3{
 }
 
 section{
-    padding-top: 65px;
+    padding-top: 40px;
 }
