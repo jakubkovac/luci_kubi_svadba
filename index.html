@@ -14,21 +14,7 @@
 
 </head>
 <body>
-       <script>
-        var myNav = document.getElementById('mynav');
-window.onscroll = function () { 
-    "use strict";
-    if (document.body.scrollTop >= 200 ) {
-        myNav.classList.add("nav-colored");
-        myNav.classList.remove("nav-transparent");
-    } 
-    else {
-        myNav.classList.add("nav-transparent");
-        myNav.classList.remove("nav-colored");
-    }
-};
-    </script>
-    <nav id="mynav">
+    <nav id="navbar">
         <ul class="nav-links">
             <li><a href="#nasden">Náš deň</a></li>
             <li><a href="#doprava">Doprava</a></li>
@@ -39,7 +25,7 @@ window.onscroll = function () {
     </nav>
     
     <div class="pimg1">
-        <div class="logo">
+        <div class="logo" id="titulka">
            <img src="img/logo.svg" alt="" style="width: 100%;max-height: 100%"> 
         </div>
         
@@ -49,7 +35,23 @@ window.onscroll = function () {
             </span>
         </div>
     </div>
+    <script>
+       /* var vyska = document.getElementById('titulka').getBoundingClientRect().height;*/
+        
+        var myNav = document.getElementById('mynav');
+        window.onscroll = function() {scrollFunction()};
 
+function scrollFunction() {
+  if (document.documentElement.scrollTop > 200) {
+    document.getElementById("navbar").classList.add("nav-colored");
+    document.getElementById("navbar").classList.remove("nav-transparent");
+  } else {
+    document.getElementById("navbar").classList.add("nav-transparent");
+    document.getElementById("navbar").classList.remove("nav-colored");
+    
+  }
+}
+    </script>
     <section class="nasden" id="nasden">
         <h2>Náš deň</h2>
         

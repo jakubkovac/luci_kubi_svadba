@@ -12,7 +12,7 @@ nav{
 
 
 
-.nav-colored { background-color:#000; }
+.nav-colored { background-color:#b3b0b0; }
 .nav-transparent { background-color:transparent;}
 .nav-links{
     display: flex;
@@ -31,7 +31,7 @@ nav{
 }
 
 
-body,html {
+body,html { 
     height: 100%;
     margin: 0;
     font-size: 18px;
@@ -145,4 +145,8 @@ h3{
     .pimg1{
         background-attachment: scroll;
     }
+}
+
+section{
+    padding-top: 65px;
 }
