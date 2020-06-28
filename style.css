@@ -31,8 +31,8 @@ nav{
     color: #000;
 }
 
-
 body,html { 
+    scroll-behavior: smooth;
     height: 100%;
     margin: 0;
     font-size: 18px;

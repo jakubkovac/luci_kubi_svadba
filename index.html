@@ -14,9 +14,34 @@
 
 </head>
 <body>
+    <a name="top"></a>
+    <script>
+        /* var vyska = document.getElementById('titulka').getBoundingClientRect().height;*/
+         
+         var myNav = document.getElementById('mynav');
+         window.onscroll = function() {scrollFunction()};
+ 
+        function scrollFunction() {
+              if (document.documentElement.scrollTop > 200) {
+                document.getElementById("navbar").classList.add("nav-colored");
+            document.getElementById("navbar").classList.remove("nav-transparent");
+            document.getElementById("navlogo").classList.add("nav-show");
+            document.getElementById("navlogo").classList.remove("nav-hide");
+          } else {
+                document.getElementById("navbar").classList.add("nav-transparent");
+            document.getElementById("navbar").classList.remove("nav-colored");
+            document.getElementById("navlogo").classList.add("nav-hide");  
+            document.getElementById("navlogo").classList.remove("nav-show");
+
+          }
+        }
+     </script>
     <nav id="navbar">
-        <div class="nav-logo" id="navlogo">
-            <img src="img/logo.svg" alt="" style="height: 30px;"> 
+        <div class="nav-logo nav-hide" id="navlogo">
+            <a href="#top">
+                <img src="img/logo.svg" alt="" style="height: 30px; vertical-align: middle;">     
+            </a>
+            
          </div>
         <ul class="nav-links">
             <li><a href="#nasden">Náš deň</a></li>
@@ -38,27 +63,6 @@
             </span>
         </div>
     </div>
-    <script>
-       /* var vyska = document.getElementById('titulka').getBoundingClientRect().height;*/
-        
-        var myNav = document.getElementById('mynav');
-        window.onscroll = function() {scrollFunction()};
-
-function scrollFunction() {
-  if (document.documentElement.scrollTop > 200) {
-    document.getElementById("navbar").classList.add("nav-colored");
-    document.getElementById("navbar").classList.remove("nav-transparent");
-    document.getElementById("navlogo").classList.add("nav-show");
-    document.getElementById("navlogo").classList.remove("nav-hide");
-  } else {
-    document.getElementById("navbar").classList.add("nav-transparent");
-    document.getElementById("navbar").classList.remove("nav-colored");
-    document.getElementById("navlogo").classList.add("nav-hide");  
-    document.getElementById("navlogo").classList.remove("nav-show");
-    
-  }
-}
-    </script>
     <section class="nasden" id="nasden">
         <h2>Náš deň</h2>
         
