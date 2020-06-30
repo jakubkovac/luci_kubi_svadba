@@ -11,7 +11,7 @@
     <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
    integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
    crossorigin=""></script>
-
+   <script src="https://kit.fontawesome.com/87e9fbc176.js" crossorigin="anonymous"></script>
 </head>
 <body>
     <a name="top"></a>
@@ -36,19 +36,24 @@
           }
         }
      </script>
-    <nav id="navbar">
-        <div class="nav-logo nav-hide" id="navlogo">
-            <a href="#top">
-                <img src="img/logo.svg" alt="" style="height: 30px; vertical-align: middle;">     
-            </a>
-            
-         </div>
-        <ul class="nav-links">
-            <li><a href="#nasden">Náš deň</a></li>
-            <li><a href="#doprava">Doprava</a></li>
-            <li><a href="#infogast">O Gaštanke</a></li>
-            <li><a href="#kvetydary">Kvety a Dary</a></li>
-            <li><a href="#naspribeh">Príbeh</a></li>
+     
+    <nav id="navbar" class="nav-transparent">  
+        <ul class="menu">
+            <li class="nav-logo nav-hide" id="navlogo">
+                <a href="#top">
+                    <img src="img/logo.svg" alt="" style="height: 30px; vertical-align: middle;">     
+                </a>
+            </li>
+
+                <input type="checkbox" id="check">
+                <label for="check" class="checkbtn"><i class="fas fa-bars"></i></label>
+ 
+            <li class="item"><a href="#nasden">Náš deň</a></li>
+            <li class="item"><a href="#doprava">Doprava</a></li>
+            <li class="item"><a href="#infogast">O Gaštanke</a></li>
+            <li class="item"><a href="#kvetydary">Kvety a Dary</a></li>
+            <li class="item"><a href="#naspribeh">Príbeh</a></li>
+           
         </ul>
     </nav>
     
@@ -125,7 +130,7 @@
 
     <footer>
         <div class="trees">
-            <img src="img/web_trees.svg" alt="" style="width: 300px"> 
+            <img src="img/web_trees_color.svg" alt="" style="width: 300px"> 
         </div>
     </footer>
 </body>
