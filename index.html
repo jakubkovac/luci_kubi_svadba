@@ -36,7 +36,21 @@
           }
         }
      </script>
-     
+    <script>
+        function stuk(){
+            document.getElementById("check").click();
+        }
+    </script>
+        <script>
+            function biela(checkboxElem) {
+                if (checkboxElem.checked) {
+                    document.getElementById("navbar").classList.add("nav-colored");
+                    document.getElementById("navbar").classList.remove("nav-transparent");    
+                }else{
+                    scrollFunction();
+                }
+            }
+        </script>
     <nav id="navbar" class="nav-transparent">  
         <ul class="menu">
             <li class="nav-logo nav-hide" id="navlogo">
@@ -45,15 +59,15 @@
                 </a>
             </li>
 
-                <input type="checkbox" id="check">
+                <input type="checkbox" id="check" onchange="biela(this)">
                 <label for="check" class="checkbtn"><i class="fas fa-bars"></i></label>
  
-            <li class="item"><a href="#nasden">Náš deň</a></li>
-            <li class="item"><a href="#doprava">Doprava</a></li>
-            <li class="item"><a href="#infogast">O Gaštanke</a></li>
-            <li class="item"><a href="#kvetydary">Kvety a Dary</a></li>
-            <li class="item"><a href="#naspribeh">Príbeh</a></li>
-           
+            <li class="item"><a href="#nasden" onclick="stuk();">Náš deň</a></li>
+            <li class="item"><a href="#doprava" onclick="stuk();">Doprava</a></li>
+            <li class="item"><a href="#infogast" onclick="stuk();">O Gaštanke</a></li>
+            <li class="item"><a href="#kvetydary" onclick="stuk();">Kvety a Dary</a></li>
+            <li class="item"><a href="#naspribeh" onclick="stuk();">Príbeh</a></li>
+            <li class="item"><a href="#napistenam" onclick="stuk();">Napíšte nám</a></li>
         </ul>
     </nav>
     
@@ -127,7 +141,7 @@
         <p> Ut ultricies tempus elit et interdum. Integer eleifend, velit at fermentum posuere, eros massa vestibulum ex, vitae molestie lectus diam sit amet libero. Aliquam aliquam varius purus eu aliquet. Fusce ac enim odio. Sed imperdiet magna sit amet arcu placerat posuere. Morbi tristique dolor at finibus dictum. Fusce dolor elit, varius vitae condimentum ut, ullamcorper quis enim. Maecenas ut massa non nunc rhoncus porttitor.
         </p>
     </section>
-    <section>
+    <section id="napistenam">
         <h2>Napíšte nám</h2>
         <form id="fs-frm" name="basic-rsvp-form" accept-charset="utf-8" action="https://formspree.io/YOUR_EMAIL_HERE" method="post"> 
             <fieldset id="fs-frm-inputs">

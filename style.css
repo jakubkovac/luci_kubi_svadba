@@ -27,13 +27,9 @@ a:hover {
     text-decoration: underline;
   }
 .menu li {
-    font-size: 16px;
-    padding: 15px 5px;
+    font-size: 14px;
+    padding: 15px 15px;
     white-space: nowrap;
-}
-
-.menu li{
-    padding: 10px 30px;
 }
 
 .toggle {
@@ -226,7 +222,11 @@ padding: 0;
     #check:checked ~ .item{
         display: block;
         background-color:#eceff4;
-    };  
+    };
+    
+    #check:checked{
+        color: red;
+    }
     
 
     p{
