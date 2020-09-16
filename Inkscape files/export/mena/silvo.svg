@@ -7,37 +7,37 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="90mm"
-   height="50mm"
-   viewBox="0 0 90 50"
-   version="1.1"
-   id="svg4866"
+   sodipodi:docname="silvo.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="silvo.svg">
+   id="svg4866"
+   version="1.1"
+   viewBox="0 0 90 50"
+   height="50mm"
+   width="90mm">
   <defs
      id="defs4860" />
   <sodipodi:namedview
-     inkscape:guide-bbox="true"
-     showguides="true"
-     inkscape:snap-bbox="false"
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="1.0872032"
-     inkscape:cx="-105.40128"
-     inkscape:cy="114.75998"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="437"
+     inkscape:window-maximized="0"
+     inkscape:window-y="330"
      inkscape:window-x="0"
-     inkscape:window-y="616"
-     inkscape:window-maximized="0" />
+     inkscape:window-height="723"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="114.75998"
+     inkscape:cx="-404.63032"
+     inkscape:zoom="0.85376468"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:snap-bbox="false"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata4863">
     <rdf:RDF>
@@ -51,105 +51,119 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     id="layer1"
      inkscape:groupmode="layer"
-     id="layer1">
+     inkscape:label="Layer 1">
     <g
-       style="opacity:1"
+       id="g8950"
        transform="matrix(0.50362313,0,0,0.50362313,20.485545,8.0699402)"
-       id="g8950" />
+       style="opacity:1" />
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.16123px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.154031"
-       x="-33.474846"
+       id="text8026-6-3-6"
        y="27.776464"
-       id="text8026-6-3-6"><tspan
-         sodipodi:role="line"
-         id="tspan8024-6-5-7"
-         x="-33.474846"
+       x="-33.474846"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.16123px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.154031"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.787px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.154031"
          y="27.776464"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.787px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.154031" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-       x="25.604343"
-       y="29.938885"
-       id="text3052-2-96-1-0-4-3-1"><tspan
-         sodipodi:role="line"
-         id="tspan3050-5-02-1-3-0-9-9"
-         x="25.604343"
-         y="29.938885"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">SILVO</tspan></text>
+         x="-33.474846"
+         id="tspan8024-6-5-7"
+         sodipodi:role="line" /></text>
     <g
-       style="opacity:0.639"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       id="text3052-2-96-1-0-4-3-1"
+       aria-label="SILVO">
+      <path
+         id="path26211"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         d="m 29.738896,25.761999 0.04233,0.01411 c 1.03011,0.352778 1.636888,0.846666 1.636888,1.382888 0,0.254 -0.268111,1.001888 -1.086555,1.001888 -0.437444,0 -1.608665,0 -2.652887,-1.114777 l -1.439332,1.354666 c 0.677333,0.719666 1.467554,1.213554 2.356554,1.495776 0.705555,0.211667 1.298221,0.239889 1.735665,0.239889 0.888999,0 1.693332,-0.366888 2.271887,-1.015999 0.493889,-0.550333 0.790222,-1.269999 0.790222,-1.961443 0,-0.705555 -0.268111,-1.368777 -0.776111,-1.933221 -0.507999,-0.550333 -1.241777,-0.987777 -2.18722,-1.312332 -0.08467,-0.02822 -0.169334,-0.05644 -0.282222,-0.08467 -0.903111,-0.225777 -1.255888,-0.507999 -1.269999,-1.015999 -0.01411,-0.324555 0.08467,-0.479777 0.169333,-0.564444 0.254,-0.268111 0.747888,-0.366888 0.874888,-0.366888 0.860777,0 1.269999,0.26811 1.904999,0.677332 l 0.352777,0.225778 1.03011,-1.679221 -0.324555,-0.211666 c -0.719666,-0.465667 -1.523999,-0.987778 -2.963331,-0.987778 -0.508,0 -1.566332,0.211667 -2.300109,0.973666 -0.508,0.536222 -0.762,1.227666 -0.719666,2.017888 0.04233,0.945443 0.479777,1.707443 1.269999,2.229554 0.564444,0.380999 1.171221,0.536221 1.495776,0.620888 z" />
+      <path
+         id="path26213"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         d="m 34.945867,29.924774 v -9.877771 h 1.975554 v 9.877771 z" />
+      <path
+         id="path26215"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         d="m 40.731398,20.047003 h -1.975554 v 9.877771 h 5.658551 v -1.961443 h -3.682997 z" />
+      <path
+         id="path26217"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         d="m 49.127458,29.938885 4.459108,-9.891882 h -2.187221 l -2.56822,5.616218 -2.582331,-5.616218 h -2.187221 l 4.473219,9.891882 z" />
+      <path
+         id="path26219"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         d="m 58.638327,19.863559 c -2.82222,0 -5.122329,2.30011 -5.122329,5.12233 0,2.82222 2.300109,5.122329 5.122329,5.122329 2.82222,0 5.122329,-2.300109 5.122329,-5.122329 0,-2.82222 -2.300109,-5.12233 -5.122329,-5.12233 z m 0,2.031999 c 1.707443,0 3.090331,1.382887 3.090331,3.090331 0,1.707443 -1.382888,3.090331 -3.090331,3.090331 -1.707443,0 -3.090331,-1.382888 -3.090331,-3.090331 0,-1.707444 1.382888,-3.090331 3.090331,-3.090331 z" />
+    </g>
+    <g
+       id="g1742-93"
        transform="matrix(0.17961783,0,0,0.17961783,31.95554,-0.21506119)"
-       id="g1742-93">
+       style="opacity:0.639">
       <rect
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.397156"
-         id="rect1497-5-6"
-         width="11.339282"
-         height="172.03369"
+         y="65.842766"
          x="16.090687"
-         y="65.842766" />
+         height="172.03369"
+         width="11.339282"
+         id="rect1497-5-6"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.397156" />
       <g
-         id="g1579-0"
-         transform="matrix(1,0,0,0.94041768,0,3.2716042)">
+         transform="matrix(1,0,0,0.94041768,0,3.2716042)"
+         id="g1579-0">
         <rect
-           transform="rotate(151.41363)"
-           y="-119.7988"
-           x="6.2100463"
-           height="57.195675"
-           width="8.0180855"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583"
            id="rect1551-62"
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583" />
-        <rect
-           transform="rotate(-154.06684)"
-           y="-97.546921"
-           x="-50.597466"
-           height="57.195679"
            width="8.0180855"
+           height="57.195675"
+           x="6.2100463"
+           y="-119.7988"
+           transform="rotate(151.41363)" />
+        <rect
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583"
            id="rect1551-6-61"
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583" />
+           width="8.0180855"
+           height="57.195679"
+           x="-50.597466"
+           y="-97.546921"
+           transform="rotate(-154.06684)" />
       </g>
       <g
-         transform="matrix(1.2285214,0,0,1.0463418,-6.7669122,42.01555)"
-         id="g1579-2-8">
+         id="g1579-2-8"
+         transform="matrix(1.2285214,0,0,1.0463418,-6.7669122,42.01555)">
         <rect
-           transform="rotate(151.41363)"
-           y="-119.7988"
-           x="6.2100463"
-           height="57.195675"
-           width="8.0180855"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583"
            id="rect1551-9-79"
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583" />
-        <rect
-           transform="rotate(-154.06684)"
-           y="-97.546921"
-           x="-50.597466"
-           height="57.195679"
            width="8.0180855"
+           height="57.195675"
+           x="6.2100463"
+           y="-119.7988"
+           transform="rotate(151.41363)" />
+        <rect
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583"
            id="rect1551-6-1-2"
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583" />
+           width="8.0180855"
+           height="57.195679"
+           x="-50.597466"
+           y="-97.546921"
+           transform="rotate(-154.06684)" />
       </g>
       <g
-         transform="matrix(1.5376974,0,0,1.231709,-15.354463,75.144092)"
-         id="g1579-2-2-0">
+         id="g1579-2-2-0"
+         transform="matrix(1.5376974,0,0,1.231709,-15.354463,75.144092)">
         <rect
-           transform="rotate(151.41363)"
-           y="-119.7988"
-           x="6.2100463"
-           height="57.195675"
-           width="8.0180855"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583"
            id="rect1551-9-7-2"
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583" />
-        <rect
-           transform="rotate(-154.06684)"
-           y="-97.546921"
-           x="-50.597466"
-           height="57.195679"
            width="8.0180855"
+           height="57.195675"
+           x="6.2100463"
+           y="-119.7988"
+           transform="rotate(151.41363)" />
+        <rect
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583"
            id="rect1551-6-1-0-37"
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583" />
+           width="8.0180855"
+           height="57.195679"
+           x="-50.597466"
+           y="-97.546921"
+           transform="rotate(-154.06684)" />
       </g>
     </g>
   </g>

@@ -7,35 +7,35 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="janko.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   id="svg4866"
-   version="1.1"
-   viewBox="0 0 90 50"
+   width="90mm"
    height="50mm"
-   width="90mm">
+   viewBox="0 0 90 50"
+   version="1.1"
+   id="svg4866"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="janko.svg">
   <defs
      id="defs4860" />
   <sodipodi:namedview
-     inkscape:window-maximized="0"
-     inkscape:window-y="88"
-     inkscape:window-x="0"
-     inkscape:window-height="965"
-     inkscape:window-width="1920"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="mm"
-     inkscape:cy="79.730908"
-     inkscape:cx="140.42318"
-     inkscape:zoom="2.7887978"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
-     pagecolor="#ffffff"
+     inkscape:snap-bbox="false"
      id="base"
-     inkscape:snap-bbox="false" />
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.2821243"
+     inkscape:cx="23.769772"
+     inkscape:cy="79.730908"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="745"
+     inkscape:window-x="0"
+     inkscape:window-y="308"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata4863">
     <rdf:RDF>
@@ -49,105 +49,119 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1">
     <g
-       id="g8950"
+       style="opacity:1"
        transform="matrix(0.50362313,0,0,0.50362313,20.485545,8.0699402)"
-       style="opacity:1" />
-    <text
-       id="text8026-6-3-6"
-       y="27.776464"
-       x="-33.474846"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.16123px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.154031"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.787px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.154031"
-         y="27.776464"
-         x="-33.474846"
-         id="tspan8024-6-5-7"
-         sodipodi:role="line" /></text>
+       id="g8950" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-       x="16.628323"
-       y="30.943588"
-       id="text3052-2-1"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.16123px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.154031"
+       x="-33.474846"
+       y="27.776464"
+       id="text8026-6-3-6"><tspan
          sodipodi:role="line"
-         id="tspan3050-5-3"
-         x="16.628323"
-         y="30.943588"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">JANKO</tspan></text>
+         id="tspan8024-6-5-7"
+         x="-33.474846"
+         y="27.776464"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.787px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.154031" /></text>
     <g
-       style="opacity:0.639"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       id="text3052-2-1"
+       aria-label="JANKO">
+      <path
+         id="path13882"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         d="m 20.218182,19.073345 -0.0508,2.150529 h 2.506129 v 5.808122 h -0.0508 v 0.01693 c 0,0.406399 -0.1524,0.778932 -0.440266,1.066798 -0.287866,0.287866 -0.660399,0.457199 -1.066798,0.457199 -0.406399,0 -0.795865,-0.169333 -1.083731,-0.457199 C 19.74405,27.827861 19.59165,27.455328 19.59165,27.048929 v -0.01693 h -2.370662 v 0.01693 c 0,2.150529 1.74413,3.894659 3.894659,3.894659 2.133596,0 3.877726,-1.74413 3.877726,-3.894659 v -0.01693 h 0.01693 v -7.958651 z" />
+      <path
+         id="path13884"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         d="m 31.648109,19.073345 -6.045188,11.870243 h 2.658528 l 3.674527,-7.213586 3.38666,7.213586 h 2.624661 L 32.342375,19.073345 Z" />
+      <path
+         id="path13886"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         d="m 48.174995,30.943588 -6.67172,-6.925719 v 6.925719 H 39.132613 V 19.073345 h 0.745065 l 6.553187,6.637854 v -6.637854 h 2.370662 v 11.870243 z" />
+      <path
+         id="path13888"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         d="m 57.31895,30.926655 h 2.827861 l -4.250258,-7.213586 4.148658,-4.639724 h -3.200394 l -3.471326,3.826926 v -3.826926 h -2.370662 v 11.85331 h 2.370662 V 26.43933 l 0.914398,-0.931331 z" />
+      <path
+         id="path13890"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         d="m 66.632223,18.853212 c -3.38666,0 -6.146788,2.760128 -6.146788,6.146788 0,3.38666 2.760128,6.146788 6.146788,6.146788 3.38666,0 6.146788,-2.760128 6.146788,-6.146788 0,-3.38666 -2.760128,-6.146788 -6.146788,-6.146788 z m 0,2.438395 c 2.04893,0 3.708393,1.659464 3.708393,3.708393 0,2.048929 -1.659463,3.708393 -3.708393,3.708393 -2.048929,0 -3.708392,-1.659464 -3.708392,-3.708393 0,-2.048929 1.659463,-3.708393 3.708392,-3.708393 z" />
+    </g>
+    <g
+       id="g1742-93"
        transform="matrix(0.07856477,0,0,0.07856477,15.960043,8.5694867)"
-       id="g1742-93">
+       style="opacity:0.639">
       <rect
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.397156"
-         id="rect1497-5-6"
-         width="11.339282"
-         height="172.03369"
+         y="65.842766"
          x="16.090687"
-         y="65.842766" />
+         height="172.03369"
+         width="11.339282"
+         id="rect1497-5-6"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.397156" />
       <g
-         id="g1579-0"
-         transform="matrix(1,0,0,0.94041768,0,3.2716042)">
+         transform="matrix(1,0,0,0.94041768,0,3.2716042)"
+         id="g1579-0">
         <rect
-           transform="rotate(151.41363)"
-           y="-119.7988"
-           x="6.2100463"
-           height="57.195675"
-           width="8.0180855"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583"
            id="rect1551-62"
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583" />
-        <rect
-           transform="rotate(-154.06684)"
-           y="-97.546921"
-           x="-50.597466"
-           height="57.195679"
            width="8.0180855"
+           height="57.195675"
+           x="6.2100463"
+           y="-119.7988"
+           transform="rotate(151.41363)" />
+        <rect
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583"
            id="rect1551-6-61"
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583" />
+           width="8.0180855"
+           height="57.195679"
+           x="-50.597466"
+           y="-97.546921"
+           transform="rotate(-154.06684)" />
       </g>
       <g
-         transform="matrix(1.2285214,0,0,1.0463418,-6.7669122,42.01555)"
-         id="g1579-2-8">
+         id="g1579-2-8"
+         transform="matrix(1.2285214,0,0,1.0463418,-6.7669122,42.01555)">
         <rect
-           transform="rotate(151.41363)"
-           y="-119.7988"
-           x="6.2100463"
-           height="57.195675"
-           width="8.0180855"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583"
            id="rect1551-9-79"
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583" />
-        <rect
-           transform="rotate(-154.06684)"
-           y="-97.546921"
-           x="-50.597466"
-           height="57.195679"
            width="8.0180855"
+           height="57.195675"
+           x="6.2100463"
+           y="-119.7988"
+           transform="rotate(151.41363)" />
+        <rect
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583"
            id="rect1551-6-1-2"
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583" />
+           width="8.0180855"
+           height="57.195679"
+           x="-50.597466"
+           y="-97.546921"
+           transform="rotate(-154.06684)" />
       </g>
       <g
-         transform="matrix(1.5376974,0,0,1.231709,-15.354463,75.144092)"
-         id="g1579-2-2-0">
+         id="g1579-2-2-0"
+         transform="matrix(1.5376974,0,0,1.231709,-15.354463,75.144092)">
         <rect
-           transform="rotate(151.41363)"
-           y="-119.7988"
-           x="6.2100463"
-           height="57.195675"
-           width="8.0180855"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583"
            id="rect1551-9-7-2"
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583" />
-        <rect
-           transform="rotate(-154.06684)"
-           y="-97.546921"
-           x="-50.597466"
-           height="57.195679"
            width="8.0180855"
+           height="57.195675"
+           x="6.2100463"
+           y="-119.7988"
+           transform="rotate(151.41363)" />
+        <rect
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583"
            id="rect1551-6-1-0-37"
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583" />
+           width="8.0180855"
+           height="57.195679"
+           x="-50.597466"
+           y="-97.546921"
+           transform="rotate(-154.06684)" />
       </g>
     </g>
   </g>

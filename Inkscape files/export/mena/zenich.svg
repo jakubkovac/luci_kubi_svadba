@@ -13,7 +13,7 @@
    version="1.1"
    id="svg4866"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="nevesta.svg">
+   sodipodi:docname="zenich.svg">
   <defs
      id="defs4860">
     <clipPath
@@ -83,17 +83,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.8968347"
-     inkscape:cx="84.070064"
+     inkscape:zoom="2.4007864"
+     inkscape:cx="172.37915"
      inkscape:cy="111.59078"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="1053"
      inkscape:window-x="0"
-     inkscape:window-y="44"
+     inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata4863">
@@ -103,7 +103,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -113,7 +113,7 @@
      id="layer1">
     <g
        style="opacity:0.639"
-       transform="matrix(0.12384885,0,0,0.12384885,54.12612,14.87416)"
+       transform="matrix(0.12384885,0,0,0.12384885,54.12612,14.178804)"
        id="g1730-3-4">
       <path
          style="opacity:1;fill:#eaa81b;fill-opacity:1;stroke-width:0.335516"
@@ -138,7 +138,7 @@
     </g>
     <g
        style="opacity:0.639"
-       transform="matrix(0.14467653,0,0,0.14467653,24.556939,10.113151)"
+       transform="matrix(0.14467653,0,0,0.14467653,24.556939,9.6495783)"
        id="g1753-1">
       <path
          sodipodi:type="star"
@@ -181,16 +181,33 @@
          x="-33.474846"
          y="27.776464"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.787px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.154031" /></text>
-    <text
-       id="text3052-2-0-3"
-       y="29.754896"
-       x="14.477813"
-       style="font-size:25.4px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.264583"
-         y="29.754896"
-         x="14.477813"
-         id="tspan3050-5-39-6"
-         sodipodi:role="line">ŽENÍCH</tspan></text>
+    <g
+       id="g33153"
+       transform="translate(-0.6622275,3.8394555)">
+      <path
+         id="path31734"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.264583"
+         d="m 24.351728,14.497291 -1.439331,-1.38853 -1.89653,1.79493 -1.896529,-1.79493 -1.439331,1.38853 2.844795,1.659464 h 0.982131 z m -8.991583,14.494905 v -0.677332 l 6.553187,-8.974649 h -5.486389 v -2.218262 h 9.719714 v 0.694265 l -6.57012,8.974649 h 6.197588 v 2.201329 z" />
+      <path
+         id="path31736"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.264583"
+         d="m 35.917163,17.121953 h -7.907851 v 2.370662 h 7.907851 z m -7.907851,6.942653 h 6.553187 v -2.370662 h -6.553187 z m 0,4.92759 h 7.857051 v -2.370662 h -7.857051 z" />
+      <path
+         id="path31738"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.264583"
+         d="m 47.160844,28.992196 -6.67172,-6.92572 v 6.92572 H 38.118462 V 17.121953 h 0.745065 l 6.553187,6.637853 v -6.637853 h 2.370661 v 11.870243 z" />
+      <path
+         id="path31740"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.264583"
+         d="m 49.514543,15.462489 2.743195,-2.370662 1.947331,1.388531 -3.674526,1.710263 z m 0.474134,13.512774 v -11.85331 h 2.370661 v 11.85331 z" />
+      <path
+         id="path31742"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.264583"
+         d="m 64.50049,18.239551 c -1.049864,-0.812799 -2.370661,-1.303864 -3.793058,-1.303864 -3.386659,0 -6.146787,2.760127 -6.146787,6.146787 0,3.38666 2.760128,6.146788 6.146787,6.146788 1.49013,0 2.861728,-0.541865 3.928528,-1.422397 l -1.523998,-1.74413 c -2.235197,1.69333 -5.909722,0.3556 -5.909722,-2.980261 0,-3.18346 3.471328,-4.571991 5.774256,-3.08186 z" />
+      <path
+         id="path31744"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.264583"
+         d="m 73.593645,21.677011 h -4.385722 v -4.538125 h -2.370664 v 11.85331 h 2.370664 v -4.944523 h 4.385722 v 4.944523 h 2.370665 v -11.85331 h -2.370665 z" />
+    </g>
   </g>
 </svg>

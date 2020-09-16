@@ -7,34 +7,34 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="tatko_p2.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   id="svg4866"
-   version="1.1"
-   viewBox="0 0 90 50"
+   width="90mm"
    height="50mm"
-   width="90mm">
+   viewBox="0 0 90 50"
+   version="1.1"
+   id="svg4866"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="tatko_p2.svg">
   <defs
      id="defs4860" />
   <sodipodi:namedview
-     inkscape:window-maximized="0"
-     inkscape:window-y="44"
-     inkscape:window-x="0"
-     inkscape:window-height="1009"
-     inkscape:window-width="1920"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="svg4866"
-     inkscape:document-units="mm"
-     inkscape:cy="13.435569"
-     inkscape:cx="-42.50994"
-     inkscape:zoom="1.7167807"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base" />
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0078998"
+     inkscape:cx="-232.00576"
+     inkscape:cy="13.435569"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="591"
+     inkscape:window-x="0"
+     inkscape:window-y="462"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata4863">
     <rdf:RDF>
@@ -43,60 +43,94 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     id="g1730-3-4"
+     style="opacity:0.639"
      transform="matrix(0.1369275,0,0,0.1369275,44.718893,7.8634076)"
-     style="opacity:0.639">
+     id="g1730-3-4">
     <path
-       sodipodi:arc-type="arc"
-       transform="matrix(0.97084476,0.2397091,-0.22012928,0.97547071,0,0)"
-       d="M -173.24782,215.75871 A 90.664459,83.138031 0 0 1 -164.1831,120.7496 90.664459,83.138031 0 0 1 -63.721023,96.065503 90.664459,83.138031 0 0 1 -4.0656357,174.1897"
-       sodipodi:open="true"
-       sodipodi:end="0"
-       sodipodi:start="2.6179939"
-       sodipodi:ry="83.138031"
-       sodipodi:rx="90.664459"
-       sodipodi:cy="174.1897"
-       sodipodi:cx="-94.730095"
-       sodipodi:type="arc"
+       style="opacity:1;fill:#eaa81b;fill-opacity:1;stroke-width:0.335516"
        id="path1631-6-3"
-       style="opacity:1;fill:#eaa81b;fill-opacity:1;stroke-width:0.335516" />
+       sodipodi:type="arc"
+       sodipodi:cx="-94.730095"
+       sodipodi:cy="174.1897"
+       sodipodi:rx="90.664459"
+       sodipodi:ry="83.138031"
+       sodipodi:start="2.6179939"
+       sodipodi:end="0"
+       sodipodi:open="true"
+       d="M -173.24782,215.75871 A 90.664459,83.138031 0 0 1 -164.1831,120.7496 90.664459,83.138031 0 0 1 -63.721023,96.065503 90.664459,83.138031 0 0 1 -4.0656357,174.1897"
+       transform="matrix(0.97084476,0.2397091,-0.22012928,0.97547071,0,0)"
+       sodipodi:arc-type="arc" />
     <path
-       sodipodi:nodetypes="ccccccccccccc"
-       inkscape:connector-curvature="0"
-       id="path1661-1-14"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m -138.33929,106.5 7.55166,6.21924 2.14209,28.51264 23.12533,-21.83483 3.46664,4.48985 -24.94643,24.19048 0.75595,91.47024 h -15.875 l 2.26786,-77.10714 -27.97024,-15.11905 4.53571,-7.55953 23.43453,8.31548 z"
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       id="path1661-1-14"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
   </g>
   <g
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1">
     <text
-       id="text8026-6-3-6"
-       y="27.776464"
-       x="-33.474846"
+       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.16123px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.154031"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.787px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.154031"
-         y="27.776464"
-         x="-33.474846"
+       x="-33.474846"
+       y="27.776464"
+       id="text8026-6-3-6"><tspan
+         sodipodi:role="line"
          id="tspan8024-6-5-7"
-         sodipodi:role="line" /></text>
-    <text
-       id="text8026-6-3-6-3"
-       y="28.274439"
-       x="9.0717382"
+         x="-33.474846"
+         y="27.776464"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.787px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.154031" /></text>
+    <g
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       xml:space="preserve"><tspan
+       id="text8026-6-3-6-3"
+       aria-label="TATKO PETER">
+      <path
+         id="path26140"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.264583"
-         y="28.274439"
-         x="9.0717382"
-         id="tspan8024-6-5-7-6"
-         sodipodi:role="line">TATKO PETER</tspan></text>
+         d="m 9.6361833,20.36092 v 1.580446 h 2.2013357 v 6.333073 h 1.580446 v -6.333073 h 2.190047 V 20.36092 Z" />
+      <path
+         id="path26142"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.264583"
+         d="m 19.355916,20.36092 -4.030137,7.913519 h 1.772357 l 2.449692,-4.809072 2.25778,4.809072 h 1.749779 L 19.818761,20.36092 Z" />
+      <path
+         id="path26144"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.264583"
+         d="m 23.047372,20.36092 v 1.580446 h 2.201336 v 6.333073 h 1.580446 v -6.333073 h 2.190047 V 20.36092 Z" />
+      <path
+         id="path26146"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.264583"
+         d="m 34.52818,28.26315 h 1.885247 l -2.833514,-4.809072 2.76578,-3.093158 h -2.133602 l -2.314224,2.551291 V 20.36092 h -1.580446 v 7.90223 h 1.580446 v -2.991559 l 0.6096,-0.620889 z" />
+      <path
+         id="path26148"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.264583"
+         d="m 40.737051,20.214164 c -2.25778,0 -4.097871,1.840091 -4.097871,4.097871 0,2.25778 1.840091,4.097871 4.097871,4.097871 2.25778,0 4.097871,-1.840091 4.097871,-4.097871 0,-2.25778 -1.840091,-4.097871 -4.097871,-4.097871 z m 0,1.625602 c 1.365957,0 2.472269,1.106312 2.472269,2.472269 0,1.365957 -1.106312,2.472269 -2.472269,2.472269 -1.365957,0 -2.472269,-1.106312 -2.472269,-2.472269 0,-1.365957 1.106312,-2.472269 2.472269,-2.472269 z" />
+      <path
+         id="path26150"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.264583"
+         d="m 49.553657,20.36092 v 7.913519 h 1.580446 v -3.160892 h 0.982134 c 1.309512,0 2.370669,-1.061157 2.370669,-2.370669 0,-1.309513 -1.061157,-2.381958 -2.370669,-2.381958 z m 1.580446,3.172181 v -1.591735 h 0.982134 c 0.428978,0 0.790223,0.361245 0.790223,0.801512 0,0.440267 -0.361245,0.790223 -0.790223,0.790223 z" />
+      <path
+         id="path26152"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.264583"
+         d="m 61.000582,20.36092 h -5.271916 v 1.580446 h 5.271916 z m -5.271916,4.628449 h 4.368804 v -1.580446 h -4.368804 z m 0,3.28507 h 5.23805 v -1.580446 h -5.23805 z" />
+      <path
+         id="path26154"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.264583"
+         d="m 62.298785,20.36092 v 1.580446 h 2.201335 v 6.333073 h 1.580446 v -6.333073 h 2.190047 V 20.36092 Z" />
+      <path
+         id="path26156"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.264583"
+         d="M 74.614966,20.36092 H 69.34305 v 1.580446 h 5.271916 z m -5.271916,4.628449 h 4.368804 V 23.408923 H 69.34305 Z m 0,3.28507 h 5.238049 V 26.693993 H 69.34305 Z" />
+      <path
+         id="path26158"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.264583"
+         d="m 79.062772,21.930077 c 0.440267,0 0.790223,0.361245 0.790223,0.801512 0,0.440267 -0.349956,0.790223 -0.790223,0.790223 h -0.609601 v 1.580446 l 1.478846,3.172181 h 1.682046 l -1.569157,-3.38667 c 0.82409,-0.372534 1.388535,-1.196624 1.388535,-2.15618 0,-1.309513 -1.061157,-2.381958 -2.370669,-2.381958 h -3.093159 v 7.913519 h 1.580446 v -6.333073 z" />
+    </g>
   </g>
 </svg>

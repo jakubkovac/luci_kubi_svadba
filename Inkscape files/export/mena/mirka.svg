@@ -7,37 +7,37 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="90mm"
-   height="50mm"
-   viewBox="0 0 90 50"
-   version="1.1"
-   id="svg4866"
+   sodipodi:docname="mirka.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="mirka.svg">
+   id="svg4866"
+   version="1.1"
+   viewBox="0 0 90 50"
+   height="50mm"
+   width="90mm">
   <defs
      id="defs4860" />
   <sodipodi:namedview
-     inkscape:guide-bbox="true"
-     showguides="true"
-     inkscape:snap-bbox="false"
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="3.4054054"
-     inkscape:cx="200.10026"
-     inkscape:cy="50.20042"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="767"
+     inkscape:window-maximized="0"
+     inkscape:window-y="440"
      inkscape:window-x="0"
-     inkscape:window-y="286"
-     inkscape:window-maximized="0" />
+     inkscape:window-height="613"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="50.20042"
+     inkscape:cx="110.2646"
+     inkscape:zoom="2.1117604"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:snap-bbox="false"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata4863">
     <rdf:RDF>
@@ -51,59 +51,73 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     id="layer1"
      inkscape:groupmode="layer"
-     id="layer1">
+     inkscape:label="Layer 1">
     <g
-       style="opacity:1"
+       id="g8950"
        transform="matrix(0.50362313,0,0,0.50362313,20.485545,8.0699402)"
-       id="g8950" />
+       style="opacity:1" />
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.16123px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.154031"
-       x="-33.474846"
+       id="text8026-6-3-6"
        y="27.776464"
-       id="text8026-6-3-6"><tspan
-         sodipodi:role="line"
-         id="tspan8024-6-5-7"
-         x="-33.474846"
+       x="-33.474846"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.16123px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.154031"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.787px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.154031"
          y="27.776464"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.787px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.154031" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-       x="18.457104"
-       y="30.943588"
-       id="text3052-2-96-1-0-4-3-1"><tspan
-         sodipodi:role="line"
-         id="tspan3050-5-02-1-3-0-9-9"
-         x="18.457104"
-         y="30.943588"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">MIRKA</tspan></text>
+         x="-33.474846"
+         id="tspan8024-6-5-7"
+         sodipodi:role="line" /></text>
     <g
-       style="opacity:0.639"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       id="text3052-2-96-1-0-4-3-1"
+       aria-label="MIRKA">
+      <path
+         id="path13074"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         d="m 28.735617,30.943588 v -7.264385 l -3.403593,3.098793 -3.403594,-3.098793 v 7.264385 H 19.557768 V 19.073345 h 0.812799 l 4.961457,4.504258 4.944523,-4.504258 h 0.829732 v 11.870243 z" />
+      <path
+         id="path13076"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         d="m 33.30758,30.926655 v -11.85331 h 2.370662 v 11.85331 z" />
+      <path
+         id="path13078"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         d="m 42.349939,21.427074 c 0.660398,0 1.185331,0.541865 1.185331,1.202264 0,0.660399 -0.524933,1.185331 -1.185331,1.185331 H 41.43554 v 2.370662 l 2.218263,4.758257 h 2.523061 l -2.353728,-5.07999 c 1.236131,-0.558799 2.082796,-1.79493 2.082796,-3.23426 0,-1.964263 -1.591731,-3.572926 -3.555993,-3.572926 h -4.639725 v 11.870243 h 2.370662 v -9.499581 z" />
+      <path
+         id="path13080"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         d="m 54.254047,30.926655 h 2.827861 l -4.250259,-7.213586 4.148659,-4.639724 h -3.200394 l -3.471326,3.826926 v -3.826926 h -2.370662 v 11.85331 h 2.370662 V 26.43933 l 0.914398,-0.931331 z" />
+      <path
+         id="path13082"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         d="m 64.143045,19.073345 -6.045188,11.870243 h 2.658528 l 3.674527,-7.213586 3.38666,7.213586 h 2.624661 L 64.837311,19.073345 Z" />
+    </g>
+    <g
+       id="g1730-06-89"
        transform="matrix(0.09492859,0.04502811,-0.04502811,0.09492859,86.671302,6.2102512)"
-       id="g1730-06-89">
+       style="opacity:0.639">
       <path
-         style="opacity:1;fill:#7d0000;fill-opacity:1;stroke-width:0.335516"
-         id="path1631-1-2"
-         sodipodi:type="arc"
-         sodipodi:cx="-94.730095"
-         sodipodi:cy="174.1897"
-         sodipodi:rx="90.664459"
-         sodipodi:ry="83.138031"
-         sodipodi:start="2.6179939"
-         sodipodi:end="0"
-         sodipodi:open="true"
-         d="M -173.24782,215.75871 A 90.664459,83.138031 0 0 1 -164.1831,120.7496 90.664459,83.138031 0 0 1 -63.721023,96.065503 90.664459,83.138031 0 0 1 -4.0656357,174.1897"
+         sodipodi:arc-type="arc"
          transform="matrix(0.97084476,0.2397091,-0.22012928,0.97547071,0,0)"
-         sodipodi:arc-type="arc" />
+         d="M -173.24782,215.75871 A 90.664459,83.138031 0 0 1 -164.1831,120.7496 90.664459,83.138031 0 0 1 -63.721023,96.065503 90.664459,83.138031 0 0 1 -4.0656357,174.1897"
+         sodipodi:open="true"
+         sodipodi:end="0"
+         sodipodi:start="2.6179939"
+         sodipodi:ry="83.138031"
+         sodipodi:rx="90.664459"
+         sodipodi:cy="174.1897"
+         sodipodi:cx="-94.730095"
+         sodipodi:type="arc"
+         id="path1631-1-2"
+         style="opacity:1;fill:#7d0000;fill-opacity:1;stroke-width:0.335516" />
       <path
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m -138.33929,106.5 7.55166,6.21924 2.14209,28.51264 23.12533,-21.83483 3.46664,4.48985 -24.94643,24.19048 0.75595,91.47024 h -15.875 l 2.26786,-77.10714 -27.97024,-15.11905 4.53571,-7.55953 23.43453,8.31548 z"
-         id="path1661-5-6"
+         sodipodi:nodetypes="ccccccccccccc"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccccccccccc" />
+         id="path1661-5-6"
+         d="m -138.33929,106.5 7.55166,6.21924 2.14209,28.51264 23.12533,-21.83483 3.46664,4.48985 -24.94643,24.19048 0.75595,91.47024 h -15.875 l 2.26786,-77.10714 -27.97024,-15.11905 4.53571,-7.55953 23.43453,8.31548 z"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
   </g>
 </svg>

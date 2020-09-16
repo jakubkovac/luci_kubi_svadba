@@ -7,35 +7,35 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="babu.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   id="svg4866"
-   version="1.1"
-   viewBox="0 0 90 50"
+   width="90mm"
    height="50mm"
-   width="90mm">
+   viewBox="0 0 90 50"
+   version="1.1"
+   id="svg4866"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="babu.svg">
   <defs
      id="defs4860" />
   <sodipodi:namedview
-     inkscape:window-maximized="0"
-     inkscape:window-y="44"
-     inkscape:window-x="0"
-     inkscape:window-height="1009"
-     inkscape:window-width="1920"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="mm"
-     inkscape:cy="66.580089"
-     inkscape:cx="13.485691"
-     inkscape:zoom="2.0853988"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
-     pagecolor="#ffffff"
+     inkscape:snap-bbox="false"
      id="base"
-     inkscape:snap-bbox="false" />
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.6709387"
+     inkscape:cx="136.70979"
+     inkscape:cy="66.580089"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1053"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata4863">
     <rdf:RDF>
@@ -49,67 +49,63 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1">
     <g
-       id="g8950"
+       style="opacity:1"
        transform="matrix(0.50362313,0,0,0.50362313,20.485545,8.0699402)"
-       style="opacity:1" />
+       id="g8950" />
     <text
-       id="text8026-6-3-6"
-       y="27.776464"
-       x="-33.474846"
+       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.16123px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.154031"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.787px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.154031"
-         y="27.776464"
-         x="-33.474846"
+       x="-33.474846"
+       y="27.776464"
+       id="text8026-6-3-6"><tspan
+         sodipodi:role="line"
          id="tspan8024-6-5-7"
-         sodipodi:role="line" /></text>
+         x="-33.474846"
+         y="27.776464"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.787px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.154031" /></text>
     <g
-       transform="translate(1.5463733,0.49362089)"
-       id="g4134">
-      <text
-         id="text3052-2-9"
-         y="30.339901"
-         x="22.600296"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-           y="30.339901"
-           x="22.600296"
-           id="tspan3050-5-33"
-           sodipodi:role="line">BABU</tspan></text>
+       id="g4134"
+       transform="translate(1.5463733,0.49362089)">
       <g
-         id="g1753-1"
-         transform="matrix(0.03129249,0,0,0.03129249,51.770619,20.835907)"
-         style="opacity:0.639">
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         id="text3052-2-9"
+         aria-label="BABU">
         <path
+           id="path14003"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           d="m 26.596555,28.307905 v 2.015063 h 0.846665 c 1.981196,0 3.589859,-1.591731 3.589859,-3.58986 0,-1.151464 -0.541865,-2.184396 -1.405463,-2.844794 0.389465,-0.558799 0.609598,-1.219198 0.609598,-1.94733 0,-1.913463 -1.557863,-3.471326 -3.471326,-3.471326 h -3.23426 v 6.976519 h 3.877725 c 0.795865,0 1.456264,0.643466 1.456264,1.439331 0,0.795865 -0.660399,1.422397 -1.456264,1.422397 z m -0.965198,-5.147723 v -2.709328 h 1.032931 c 0.660399,0 1.371597,0.507999 1.371597,1.33773 0,0.829732 -0.711198,1.371598 -1.371597,1.371598 z" />
+        <path
+           id="path14005"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           d="m 37.586235,18.469658 -6.045188,11.870243 h 2.658528 l 3.674526,-7.213586 3.38666,7.213586 h 2.624662 L 38.2805,18.469658 Z" />
+        <path
+           id="path14007"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           d="m 47.966333,28.307905 v 2.015063 h 0.846665 c 1.981196,0 3.589859,-1.591731 3.589859,-3.58986 0,-1.151464 -0.541865,-2.184396 -1.405464,-2.844794 0.389466,-0.558799 0.609599,-1.219198 0.609599,-1.94733 0,-1.913463 -1.557864,-3.471326 -3.471326,-3.471326 h -3.234261 v 6.976519 h 3.877726 c 0.795865,0 1.456264,0.643466 1.456264,1.439331 0,0.795865 -0.660399,1.422397 -1.456264,1.422397 z m -0.965199,-5.147723 v -2.709328 h 1.032932 c 0.660398,0 1.371597,0.507999 1.371597,1.33773 0,0.829732 -0.711199,1.371598 -1.371597,1.371598 z" />
+        <path
+           id="path14009"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           d="m 63.358693,25.954176 v -7.484518 h -2.370662 v 7.501452 h 0.01693 c -0.01693,0.592665 -0.237066,1.134531 -0.660399,1.557863 -0.423332,0.423333 -0.965198,0.643466 -1.557863,0.643466 -0.592666,0 -1.151465,-0.220133 -1.574797,-0.643466 -0.423333,-0.423332 -0.660399,-0.982131 -0.660399,-1.574797 v -7.484518 h -2.370662 v 7.501452 c 0.01693,2.523061 2.065863,4.571991 4.605858,4.571991 2.523061,0 4.588924,-2.04893 4.588924,-4.588925 z" />
+      </g>
+      <g
+         style="opacity:0.639"
+         transform="matrix(0.03129249,0,0,0.03129249,51.770619,20.835907)"
+         id="g1753-1">
+        <path
+           d="m 113.58185,76.098238 15.34098,25.916692 15.34098,25.91668 -30.115,0.32734 -30.115,0.32734 14.774017,-26.24403 z"
            transform="matrix(1.6584864,0,0,2.7922108,36.372725,-158.75764)"
            inkscape:transform-center-y="-23.816963"
            inkscape:transform-center-x="-0.31343217"
-           d="m 113.58185,76.098238 15.34098,25.916692 15.34098,25.91668 -30.115,0.32734 -30.115,0.32734 14.774017,-26.24403 z"
-           inkscape:randomized="0"
-           inkscape:rounded="0"
-           inkscape:flatsided="false"
-           sodipodi:arg2="-0.53446791"
-           sodipodi:arg1="-1.5816655"
-           sodipodi:r2="17.387934"
-           sodipodi:r1="34.775864"
-           sodipodi:cy="110.87205"
-           sodipodi:cx="113.95982"
-           sodipodi:sides="3"
-           id="path1446-3-7-5-27"
            style="opacity:1;fill:#003a00;fill-opacity:1;stroke-width:0.264583"
-           sodipodi:type="star" />
-        <rect
-           y="162.59433"
-           x="220.28461"
-           height="76.351196"
-           width="11.339282"
-           id="rect1497-3-0"
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583" />
+           id="path1446-3-7-5-27" />
+        <path
+           d="m 220.28461,162.59433 h 11.33928 v 76.3512 h -11.33928 z"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           id="rect1497-3-0" />
       </g>
     </g>
   </g>
