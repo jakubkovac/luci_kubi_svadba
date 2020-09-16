@@ -7,37 +7,37 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="90mm"
-   height="50mm"
-   viewBox="0 0 90 50"
-   version="1.1"
-   id="svg4866"
+   sodipodi:docname="nikol.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="nikol.svg">
+   id="svg4866"
+   version="1.1"
+   viewBox="0 0 90 50"
+   height="50mm"
+   width="90mm">
   <defs
      id="defs4860" />
   <sodipodi:namedview
-     inkscape:guide-bbox="true"
-     showguides="true"
-     inkscape:snap-bbox="false"
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="124.8203"
-     inkscape:cy="57.223681"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-maximized="0"
+     inkscape:window-y="374"
      inkscape:window-x="0"
-     inkscape:window-y="44"
-     inkscape:window-maximized="0" />
+     inkscape:window-height="679"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="81.249885"
+     inkscape:cx="134.05367"
+     inkscape:zoom="11.507507"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:snap-bbox="false"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata4863">
     <rdf:RDF>
@@ -46,58 +46,58 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     id="layer1"
      inkscape:groupmode="layer"
-     id="layer1">
+     inkscape:label="Layer 1">
     <g
-       style="opacity:1"
+       id="g8950"
        transform="matrix(0.50362313,0,0,0.50362313,20.485545,8.0699402)"
-       id="g8950" />
+       style="opacity:1" />
+    <text
+       id="text8026-6-3-6"
+       y="27.776464"
+       x="-33.474846"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.16123px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.154031"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.787px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.154031"
+         y="27.776464"
+         x="-33.474846"
+         id="tspan8024-6-5-7"
+         sodipodi:role="line" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.16123px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.154031"
-       x="-33.474846"
-       y="27.776464"
-       id="text8026-6-3-6"><tspan
-         sodipodi:role="line"
-         id="tspan8024-6-5-7"
-         x="-33.474846"
-         y="27.776464"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.787px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.154031" /></text>
-    <text
-       id="text3052-2-96"
-       y="32.97353"
-       x="21.206823"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         y="32.97353"
-         x="21.206823"
+       x="20.37904"
+       y="30.943588"
+       id="text3052-2-96"><tspan
+         sodipodi:role="line"
          id="tspan3050-5-02"
-         sodipodi:role="line">NIKOL</tspan></text>
+         x="20.37904"
+         y="30.943588"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">NIKOL</tspan></text>
     <path
-       style="opacity:0.639;fill:#c95501;fill-opacity:1;stroke-width:0.0403017"
-       id="path1631-63-2"
-       sodipodi:type="arc"
-       sodipodi:cx="38.705894"
-       sodipodi:cy="8.18927"
-       sodipodi:rx="10.890496"
-       sodipodi:ry="9.9864311"
-       sodipodi:start="2.6179939"
-       sodipodi:end="0"
-       sodipodi:open="true"
-       transform="matrix(0.97084476,0.23970908,-0.22012928,0.97547071,0,0)"
+       d="M 28.525138,12.281672 A 10.890496,9.9864311 0 0 1 29.613981,0.86930261 10.890496,9.9864311 0 0 1 41.681354,-2.0957187 10.890496,9.9864311 0 0 1 48.847081,7.2884569"
        sodipodi:arc-type="arc"
-       d="M 29.274448,13.182485 A 10.890496,9.9864311 0 0 1 30.36329,1.7701157 10.890496,9.9864311 0 0 1 42.430664,-1.1949056 10.890496,9.9864311 0 0 1 49.596391,8.18927" />
+       transform="matrix(0.97084476,0.23970908,-0.22012928,0.97547071,0,0)"
+       sodipodi:open="true"
+       sodipodi:end="0"
+       sodipodi:start="2.6179939"
+       sodipodi:ry="9.9864311"
+       sodipodi:rx="10.890496"
+       sodipodi:cy="7.2884569"
+       sodipodi:cx="37.956585"
+       sodipodi:type="arc"
+       id="path1631-63-2"
+       style="opacity:0.639;fill:#c95501;fill-opacity:1;stroke-width:0.0403017" />
     <path
-       sodipodi:nodetypes="ccccccccccccc"
-       d="m 34.496911,10.52071 -0.265949,6.520016 -4.119403,-1.304313 -0.797336,1.185457 4.917854,2.371912 -0.03229,1.807144 2.328624,-0.0021 -0.03867,-4.058113 4.385352,-3.793567 -0.609576,-0.703833 -4.064876,3.423564 -0.376546,-4.471045 z"
+       id="path1661-2-06"
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0439266px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="path1661-2-06" />
+       d="m 33.702769,10.548123 -0.265949,6.520016 -4.119403,-1.304313 -0.797336,1.185457 4.917854,2.371912 -0.03229,1.807144 2.291903,0.0116 -0.0019,-4.071817 4.385352,-3.793567 -0.609576,-0.703833 -4.064876,3.423564 -0.376546,-4.471045 z"
+       sodipodi:nodetypes="ccccccccccccc" />
   </g>
 </svg>

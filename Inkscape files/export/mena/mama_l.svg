@@ -7,34 +7,34 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="mama_l.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   id="svg4866"
-   version="1.1"
-   viewBox="0 0 90 50"
+   width="90mm"
    height="50mm"
-   width="90mm">
+   viewBox="0 0 90 50"
+   version="1.1"
+   id="svg4866"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="mama_l.svg">
   <defs
      id="defs4860" />
   <sodipodi:namedview
-     inkscape:window-maximized="0"
-     inkscape:window-y="44"
-     inkscape:window-x="0"
-     inkscape:window-height="1009"
-     inkscape:window-width="1920"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="mm"
-     inkscape:cy="98.078544"
-     inkscape:cx="61.085136"
-     inkscape:zoom="2.4278946"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base" />
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8689986"
+     inkscape:cx="164.18771"
+     inkscape:cy="94.030979"
+     inkscape:document-units="mm"
+     inkscape:current-layer="svg4866"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="987"
+     inkscape:window-x="0"
+     inkscape:window-y="66"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata4863">
     <rdf:RDF>
@@ -43,109 +43,110 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     style="opacity:0.639132"
-     id="g5630">
+     transform="translate(-1.7890738,0.59956026)"
+     id="g5630"
+     style="opacity:0.639132">
     <g
-       id="g1636"
+       transform="matrix(0.11583485,0,0,0.11583485,67.005805,17.204575)"
        style="fill:#003a00;fill-opacity:1"
-       transform="matrix(0.11583485,0,0,0.11583485,67.005805,17.204575)">
+       id="g1636">
       <path
-         d="m 112.73684,37.429197 14.98318,26.401945 15.22365,26.264017 -30.35634,-0.225158 -30.357136,0.05206 15.373166,-26.176787 z"
-         transform="matrix(0.99998464,0,0,0.82608696,0.0017301,21.299041)"
-         inkscape:transform-center-y="-7.0463439"
-         inkscape:transform-center-x="-0.18898258"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="-0.52074769"
-         sodipodi:arg1="-1.5679453"
-         sodipodi:r2="17.387932"
-         sodipodi:r1="35.053085"
-         sodipodi:cy="72.48214"
-         sodipodi:cx="112.6369"
-         sodipodi:sides="3"
+         sodipodi:type="star"
+         style="opacity:1;fill:#003a00;fill-opacity:1;stroke-width:0.264583"
          id="path1446"
-         style="opacity:1;fill:#003a00;fill-opacity:1;stroke-width:0.264583"
-         sodipodi:type="star" />
-      <path
-         d="m 113.58185,76.098238 15.34098,25.916692 15.34098,25.91668 -30.115,0.32734 -30.115,0.32734 14.774017,-26.24403 z"
-         transform="matrix(1.3075018,0,0,1.2880474,-36.249538,-30.235376)"
-         inkscape:transform-center-y="-10.986768"
-         inkscape:transform-center-x="-0.24710152"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="-0.53446791"
-         sodipodi:arg1="-1.5816655"
-         sodipodi:r2="17.387934"
-         sodipodi:r1="34.775864"
-         sodipodi:cy="110.87205"
-         sodipodi:cx="113.95982"
          sodipodi:sides="3"
+         sodipodi:cx="112.6369"
+         sodipodi:cy="72.48214"
+         sodipodi:r1="35.053085"
+         sodipodi:r2="17.387932"
+         sodipodi:arg1="-1.5679453"
+         sodipodi:arg2="-0.52074769"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-x="-0.18898258"
+         inkscape:transform-center-y="-7.0463439"
+         transform="matrix(0.99998464,0,0,0.82608696,0.0017301,21.299041)"
+         d="m 112.73684,37.429197 14.98318,26.401945 15.22365,26.264017 -30.35634,-0.225158 -30.357136,0.05206 15.373166,-26.176787 z" />
+      <path
+         sodipodi:type="star"
+         style="opacity:1;fill:#003a00;fill-opacity:1;stroke-width:0.264583"
          id="path1446-3"
-         style="opacity:1;fill:#003a00;fill-opacity:1;stroke-width:0.264583"
-         sodipodi:type="star" />
-      <path
-         d="m 113.58185,76.098238 15.34098,25.916692 15.34098,25.91668 -30.115,0.32734 -30.115,0.32734 14.774017,-26.24403 z"
-         transform="matrix(1.7028612,0,0,1.5904972,-81.155189,-23.391154)"
-         inkscape:transform-center-y="-13.566598"
-         inkscape:transform-center-x="-0.32181646"
-         inkscape:randomized="0"
-         inkscape:rounded="0"
-         inkscape:flatsided="false"
-         sodipodi:arg2="-0.53446791"
-         sodipodi:arg1="-1.5816655"
-         sodipodi:r2="17.387934"
-         sodipodi:r1="34.775864"
-         sodipodi:cy="110.87205"
-         sodipodi:cx="113.95982"
          sodipodi:sides="3"
-         id="path1446-3-7"
+         sodipodi:cx="113.95982"
+         sodipodi:cy="110.87205"
+         sodipodi:r1="34.775864"
+         sodipodi:r2="17.387934"
+         sodipodi:arg1="-1.5816655"
+         sodipodi:arg2="-0.53446791"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-x="-0.24710152"
+         inkscape:transform-center-y="-10.986768"
+         transform="matrix(1.3075018,0,0,1.2880474,-36.249538,-30.235376)"
+         d="m 113.58185,76.098238 15.34098,25.916692 15.34098,25.91668 -30.115,0.32734 -30.115,0.32734 14.774017,-26.24403 z" />
+      <path
+         sodipodi:type="star"
          style="opacity:1;fill:#003a00;fill-opacity:1;stroke-width:0.264583"
-         sodipodi:type="star" />
+         id="path1446-3-7"
+         sodipodi:sides="3"
+         sodipodi:cx="113.95982"
+         sodipodi:cy="110.87205"
+         sodipodi:r1="34.775864"
+         sodipodi:r2="17.387934"
+         sodipodi:arg1="-1.5816655"
+         sodipodi:arg2="-0.53446791"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-x="-0.32181646"
+         inkscape:transform-center-y="-13.566598"
+         transform="matrix(1.7028612,0,0,1.5904972,-81.155189,-23.391154)"
+         d="m 113.58185,76.098238 15.34098,25.916692 15.34098,25.91668 -30.115,0.32734 -30.115,0.32734 14.774017,-26.24403 z" />
     </g>
     <rect
-       style="fill:#000000;fill-opacity:1;stroke-width:0.0306479"
-       id="rect1497"
-       width="1.3134841"
-       height="8.8441296"
+       y="34.380112"
        x="79.306053"
-       y="34.380112" />
+       height="8.8441296"
+       width="1.3134841"
+       id="rect1497"
+       style="fill:#000000;fill-opacity:1;stroke-width:0.0306479" />
   </g>
   <g
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1">
     <text
-       id="text8026-6-3-6"
-       y="27.776464"
-       x="-33.474846"
+       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.16123px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.154031"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.787px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.154031"
-         y="27.776464"
-         x="-33.474846"
+       x="-33.474846"
+       y="27.776464"
+       id="text8026-6-3-6"><tspan
+         sodipodi:role="line"
          id="tspan8024-6-5-7"
-         sodipodi:role="line" /></text>
+         x="-33.474846"
+         y="27.776464"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.787px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.154031" /></text>
     <text
-       id="text8026-6-3-6-3"
-       y="28.274439"
-       x="9.0717382"
+       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.264583"
-         y="28.274439"
-         x="9.0717382"
+       x="7.1370845"
+       y="28.889027"
+       id="text8026-6-3-6-3"><tspan
+         sodipodi:role="line"
          id="tspan8024-6-5-7-6"
-         sodipodi:role="line">MAMA LUBKA</tspan></text>
+         x="7.1370845"
+         y="28.889027"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.264583">MAMA LUBKA</tspan></text>
     <path
-       id="path3348"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;line-height:1.25;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.0885286"
        d="m 51.709922,20.923263 0.428585,-1.768496 1.20037,-0.001 -1.001601,1.770531 z"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;line-height:1.25;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.0885286" />
+       id="path3348" />
   </g>
 </svg>

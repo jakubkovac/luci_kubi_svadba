@@ -20,24 +20,28 @@
      inkscape:guide-bbox="true"
      showguides="true"
      inkscape:window-maximized="0"
-     inkscape:window-y="44"
-     inkscape:window-x="0"
-     inkscape:window-height="1009"
-     inkscape:window-width="1920"
+     inkscape:window-y="4"
+     inkscape:window-x="484"
+     inkscape:window-height="1043"
+     inkscape:window-width="1430"
      showgrid="false"
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="107.58108"
-     inkscape:cx="-15.203054"
-     inkscape:zoom="2"
+     inkscape:cy="181.03018"
+     inkscape:cx="178.65742"
+     inkscape:zoom="2.3245165"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     inkscape:snap-bbox="false" />
+     inkscape:snap-bbox="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1536" />
+  </sodipodi:namedview>
   <metadata
      id="metadata4863">
     <rdf:RDF>
@@ -46,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -65,110 +69,132 @@
          x="-33.474846"
          id="tspan8024-6-5-7"
          sodipodi:role="line" /></text>
-    <text
-       xml:space="preserve"
+    <g
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-       x="18.221554"
-       y="30.842449"
-       id="text3052-2-0"><tspan
-         sodipodi:role="line"
-         id="tspan3050-5-39"
-         x="18.221554"
-         y="30.842449"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">ALICA</tspan></text>
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke-width:0.0570083"
-       id="rect1497-5-6"
-       width="1.6276544"
-       height="24.693926"
-       x="24.262621"
-       y="23.046268" />
-    <g
-       transform="matrix(0.17634346,0,0,0.15019317,20.981614,19.626081)"
-       id="g1579-2-8">
-      <rect
-         transform="rotate(151.41363)"
-         y="-119.7988"
-         x="6.2100463"
-         height="57.195675"
-         width="8.0180855"
-         id="rect1551-9-79"
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583" />
-      <rect
-         transform="rotate(-154.06684)"
-         y="-97.546921"
-         x="-50.597466"
-         height="57.195679"
-         width="8.0180855"
-         id="rect1551-6-1-2"
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583" />
+       id="text3052-2-0"
+       aria-label="ALICA">
+      <path
+         id="path851"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         d="m 26.119434,19.039478 -6.045188,11.870243 h 2.658528 l 3.674526,-7.213585 3.38666,7.213585 h 2.624662 L 26.8137,19.039478 Z" />
+      <path
+         id="path853"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         d="m 35.9746,19.039478 h -2.370662 v 11.85331 h 6.790253 V 28.539059 H 35.9746 Z" />
+      <path
+         id="path855"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         d="m 42.59549,30.892788 v -11.85331 h 2.370662 v 11.85331 z" />
+      <path
+         id="path857"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         d="m 56.599292,20.157076 c -1.049864,-0.812799 -2.370662,-1.303864 -3.793059,-1.303864 -3.38666,0 -6.146788,2.760128 -6.146788,6.146788 0,3.38666 2.760128,6.146788 6.146788,6.146788 1.49013,0 2.861728,-0.541866 3.928526,-1.422398 L 55.210762,27.98026 C 52.975566,29.67359 49.30104,28.33586 49.30104,25 c 0,-3.183461 3.471326,-4.571991 5.774255,-3.081861 z" />
+      <path
+         id="path859"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         d="M 63.626568,19.039478 57.58138,30.909721 h 2.658528 l 3.674526,-7.213585 3.38666,7.213585 h 2.624661 L 64.320833,19.039478 Z" />
     </g>
     <g
-       transform="matrix(0.22072297,0,0,0.17680101,19.748947,24.381392)"
-       id="g1579-2-2-0">
+       id="g1545"
+       transform="matrix(0.8528646,0,0,0.8528646,4.9005106,3.4705784)">
       <rect
-         transform="rotate(151.41363)"
-         y="-119.7988"
-         x="6.2100463"
-         height="57.195675"
-         width="8.0180855"
-         id="rect1551-9-7-2"
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583" />
-      <rect
-         transform="rotate(-154.06684)"
-         y="-97.546921"
-         x="-50.597466"
-         height="57.195679"
-         width="8.0180855"
-         id="rect1551-6-1-0-37"
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583" />
+         y="23.046268"
+         x="24.262621"
+         height="24.693926"
+         width="1.6276544"
+         id="rect1497-5-6"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.0570083" />
+      <g
+         id="g1579-2-8"
+         transform="matrix(0.17634346,0,0,0.15019317,20.981614,19.626081)">
+        <rect
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           id="rect1551-9-79"
+           width="8.0180855"
+           height="57.195675"
+           x="6.2100463"
+           y="-119.7988"
+           transform="rotate(151.41363)" />
+        <rect
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           id="rect1551-6-1-2"
+           width="8.0180855"
+           height="57.195679"
+           x="-50.597466"
+           y="-97.546921"
+           transform="rotate(-154.06684)" />
+      </g>
+      <g
+         id="g1579-2-2-0"
+         transform="matrix(0.22072297,0,0,0.17680101,19.748947,24.381392)">
+        <rect
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           id="rect1551-9-7-2"
+           width="8.0180855"
+           height="57.195675"
+           x="6.2100463"
+           y="-119.7988"
+           transform="rotate(151.41363)" />
+        <rect
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           id="rect1551-6-1-0-37"
+           width="8.0180855"
+           height="57.195679"
+           x="-50.597466"
+           y="-97.546921"
+           transform="rotate(-154.06684)" />
+      </g>
     </g>
-    <rect
-       y="23.063366"
-       x="61.776569"
-       height="24.693926"
-       width="1.6276544"
-       id="rect1497-5-6-3"
-       style="fill:#000000;fill-opacity:1;stroke-width:0.0570082" />
     <g
-       id="g1579-2-8-2"
-       transform="matrix(0.17634346,0,0,0.15019317,58.495559,19.643176)">
+       transform="matrix(0.85286461,0,0,0.85286461,42.807269,3.4694928)"
+       id="g1545-3">
       <rect
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-         id="rect1551-9-79-1"
-         width="8.0180855"
-         height="57.195675"
-         x="6.2100463"
-         y="-119.7988"
-         transform="rotate(151.41363)" />
-      <rect
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-         id="rect1551-6-1-2-5"
-         width="8.0180855"
-         height="57.195679"
-         x="-50.597466"
-         y="-97.546921"
-         transform="rotate(-154.06684)" />
-    </g>
-    <g
-       id="g1579-2-2-0-9"
-       transform="matrix(0.22072297,0,0,0.17680101,57.262892,24.398488)">
-      <rect
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-         id="rect1551-9-7-2-9"
-         width="8.0180855"
-         height="57.195675"
-         x="6.2100463"
-         y="-119.7988"
-         transform="rotate(151.41363)" />
-      <rect
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-         id="rect1551-6-1-0-37-1"
-         width="8.0180855"
-         height="57.195679"
-         x="-50.597466"
-         y="-97.546921"
-         transform="rotate(-154.06684)" />
+         style="fill:#000000;fill-opacity:1;stroke-width:0.0570083"
+         id="rect1497-5-6-6"
+         width="1.6276544"
+         height="24.693926"
+         x="24.262621"
+         y="23.046268" />
+      <g
+         transform="matrix(0.17634346,0,0,0.15019317,20.981614,19.626081)"
+         id="g1579-2-8-7">
+        <rect
+           transform="rotate(151.41363)"
+           y="-119.7988"
+           x="6.2100463"
+           height="57.195675"
+           width="8.0180855"
+           id="rect1551-9-79-5"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583" />
+        <rect
+           transform="rotate(-154.06684)"
+           y="-97.546921"
+           x="-50.597466"
+           height="57.195679"
+           width="8.0180855"
+           id="rect1551-6-1-2-3"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583" />
+      </g>
+      <g
+         transform="matrix(0.22072297,0,0,0.17680101,19.748947,24.381392)"
+         id="g1579-2-2-0-5">
+        <rect
+           transform="rotate(151.41363)"
+           y="-119.7988"
+           x="6.2100463"
+           height="57.195675"
+           width="8.0180855"
+           id="rect1551-9-7-2-6"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583" />
+        <rect
+           transform="rotate(-154.06684)"
+           y="-97.546921"
+           x="-50.597466"
+           height="57.195679"
+           width="8.0180855"
+           id="rect1551-6-1-0-37-2"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.264583" />
+      </g>
     </g>
   </g>
 </svg>

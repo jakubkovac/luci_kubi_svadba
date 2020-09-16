@@ -24,17 +24,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.4278946"
-     inkscape:cx="113.10808"
-     inkscape:cy="68.128133"
+     inkscape:zoom="1.3371954"
+     inkscape:cx="165.64992"
+     inkscape:cy="109.06837"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="635"
      inkscape:window-x="0"
-     inkscape:window-y="44"
+     inkscape:window-y="418"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata4863">
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -67,20 +67,38 @@
          x="-33.474846"
          y="27.776464"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.787px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract';stroke-width:0.154031" /></text>
-    <text
-       id="text3052-2-2"
-       y="30.456781"
-       x="14.495378"
+    <g
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-       xml:space="preserve"><tspan
+       id="text3052-2-2"
+       aria-label="ANDREJ">
+      <path
+         id="path22491"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         y="30.456781"
-         x="14.495378"
-         id="tspan3050-5-67"
-         sodipodi:role="line">ANDREJ</tspan></text>
+         d="m 19.134433,19.073345 -6.045188,11.870243 h 2.658528 l 3.674526,-7.213586 3.38666,7.213586 H 25.43362 L 19.828698,19.073345 Z" />
+      <path
+         id="path22493"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         d="m 35.661318,30.943588 -6.67172,-6.925719 v 6.925719 H 26.618936 V 19.073345 h 0.745065 l 6.553187,6.637854 v -6.637854 h 2.370662 v 11.870243 z" />
+      <path
+         id="path22495"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         d="m 38.48915,19.073345 v 11.85331 h 0.965199 v 0.01693 h 2.387595 c 0.795865,0 1.574797,-0.152399 2.302929,-0.474132 0.711198,-0.287866 1.33773,-0.728132 1.879596,-1.269998 0.558799,-0.541865 0.982131,-1.168397 1.269997,-1.879596 C 47.616199,26.59173 47.768599,25.812798 47.768599,25 c 0,-0.795865 -0.1524,-1.574797 -0.474133,-2.302929 C 47.0066,21.985873 46.583268,21.35934 46.024469,20.800542 45.482603,20.258676 44.856071,19.835343 44.144873,19.530544 43.416741,19.225745 42.637809,19.073345 41.841944,19.073345 Z m 2.370662,9.499581 v -7.128919 h 0.982132 c 1.964263,0 3.555993,1.59173 3.555993,3.555993 0,1.964263 -1.59173,3.572926 -3.555993,3.572926 z" />
+      <path
+         id="path22497"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         d="m 54.440312,21.427074 c 0.660398,0 1.185331,0.541865 1.185331,1.202264 0,0.660399 -0.524933,1.185331 -1.185331,1.185331 h -0.914398 v 2.370662 l 2.218262,4.758257 h 2.523062 l -2.353729,-5.07999 c 1.236131,-0.558799 2.082796,-1.79493 2.082796,-3.23426 0,-1.964263 -1.59173,-3.572926 -3.555993,-3.572926 h -4.639724 v 11.870243 h 2.370662 v -9.499581 z" />
+      <path
+         id="path22499"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         d="m 67.936148,19.073345 h -7.907851 v 2.370662 h 7.907851 z m -7.907851,6.942653 h 6.553187 v -2.370662 h -6.553187 z m 0,4.92759 h 7.857051 v -2.370662 h -7.857051 z" />
+      <path
+         id="path22501"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Jaapokki subtract';-inkscape-font-specification:'Jaapokki subtract, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         d="m 72.118631,19.073345 -0.0508,2.150529 h 2.506129 v 5.808122 h -0.0508 v 0.01693 c 0,0.406399 -0.1524,0.778932 -0.440266,1.066798 -0.287866,0.287866 -0.660399,0.457199 -1.066798,0.457199 -0.406399,0 -0.795865,-0.169333 -1.083731,-0.457199 -0.287866,-0.287866 -0.440266,-0.660399 -0.440266,-1.066798 v -0.01693 h -2.370662 v 0.01693 c 0,2.150529 1.74413,3.894659 3.894659,3.894659 2.133596,0 3.877726,-1.74413 3.877726,-3.894659 v -0.01693 h 0.01693 v -7.958651 z" />
+    </g>
     <g
        id="g1730-3-4"
-       transform="matrix(0.08639551,-0.02883798,0.02883798,0.08639551,23.645335,0.56895696)"
+       transform="matrix(0.08639551,-0.02883798,0.02883798,0.08639551,22.057834,0.56895696)"
        style="opacity:0.639">
       <path
          sodipodi:arc-type="arc"
